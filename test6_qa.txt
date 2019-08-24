@@ -1,0 +1,10 @@
+total 16
+drwxr-xr-x. 3 prajesh prajesh 123 Aug 24 21:27 .
+drwxr-xr-x. 4 prajesh prajesh  40 Aug 24 21:00 ..
+drwxr-xr-x. 8 prajesh prajesh 185 Aug 24 21:23 .git
+-rw-r--r--. 1 prajesh prajesh 289 Aug 24 21:00 test3.txt
+-rw-r--r--. 1 prajesh prajesh   0 Aug 24 21:27 test6_qa.txt
+-rw-r--r--. 1 prajesh prajesh  10 Aug 24 21:00 text1.txt
+-rw-r--r--. 1 prajesh prajesh 120 Aug 24 21:00 text2.txt
+-rw-r--r--. 1 prajesh prajesh   0 Aug 24 21:00 text4.txt
+-rw-r--r--. 1 prajesh prajesh 445 Aug 24 21:05 text5.txt
